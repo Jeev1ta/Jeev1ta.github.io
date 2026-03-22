@@ -1,6 +1,7 @@
 # Jeevita Bhupati — Portfolio Website
 
-A personal portfolio website with a Harry Potter theme, built using HTML and CSS.
+This site showcases my academic background, projects, hackathon participations, certificates, and skills in a Harry Potter themed design.
+The website is a single page application with smooth scroll driven animations, an interactive parchment map reveal, horizontally scrollable project and certificate sections, and a fully responsive layout for all screen sizes using only HTML and CSS.
 
 ---
 
