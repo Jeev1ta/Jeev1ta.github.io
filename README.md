@@ -53,5 +53,4 @@ Links to email, LinkedIn, GitHub, and phone number.
 
 ## Tech Used
 - HTML5
-- CSS3 (Flexbox, Grid, scroll driven animations, media queries)
-- No JavaScript, no frameworks
+- CSS
